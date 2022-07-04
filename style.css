@@ -109,6 +109,8 @@ h2 {
   margin: 0 auto;
   box-shadow: 10px 20px 30px gray;
   display: flex;
+  justify-content: space-evenly;
+  align-items: center;
   margin-bottom: 100px;
   border-radius: 25px;
   background: #e0e0e0;
@@ -116,7 +118,7 @@ h2 {
 }
 
 .box-width {
-  width: 35%;
+  /* width: 35%; */
   text-align: center;
   margin-bottom: 50px;
   padding-top: 30px;
